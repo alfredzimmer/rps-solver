@@ -1,1 +1,4 @@
 This is a Counterfactual Regret Minimization (CFR) solver for Rock Paper Scissors.
+
+It is actually fascinating to notice that in RPS game, the game theory solution to any "skewed" opponent is
+to exploit their bias as much as possible. The math breakdown is quite trivial and hereby dismissed.
